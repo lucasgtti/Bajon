@@ -1,0 +1,28 @@
+header{
+    background-color: rgb(233, 99, 51);
+    background-size: cover;
+}
+
+header img{
+    padding: 5px;
+    width: 4%;
+}
+
+header p{
+    float: right;
+    padding: 5px;
+    color: black;
+    font-size: 35px;
+    margin-right: 30px;
+    display: inline-block;
+}
+
+.recetas{
+    display: inline-block;
+    text-align: center;
+    box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.14);
+}
+
+.recetas img{
+    width: 300px;
+}

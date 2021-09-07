@@ -1,0 +1,47 @@
+            /*HEADER*/
+header{
+    background-color: rgb(233, 99, 51);
+    height: 67px;
+}
+
+header img{
+    padding: 5px;
+    width: 4%;
+}
+
+nav ul{
+    float: right;
+    margin-top: 15px;
+    margin-right: 10px;
+    padding: 5px;
+}
+
+nav ul li{
+    display: inline-block;   
+}
+
+nav ul li a{
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+            /*CARDS*/
+
+.card{
+    box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.14);
+    padding: 50px;
+}
+
+.card h3{
+    text-align: center;
+    padding: 25px;
+}
+
+            /*FOOTER*/
+footer{
+    height: 60px;
+    background-color: rgb(214, 205, 205);
+    padding: 20px;
+}
+
